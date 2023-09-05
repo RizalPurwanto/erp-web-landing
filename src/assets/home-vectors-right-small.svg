@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="141.54327mm"
+   height="84.681435mm"
+   viewBox="0 0 141.54327 84.681435"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><linearGradient
+       id="linearGradient2"><stop
+         style="stop-color:#0f69fb;stop-opacity:1;"
+         offset="0"
+         id="stop2" /><stop
+         style="stop-color:#cb96de;stop-opacity:1"
+         offset="1"
+         id="stop3" /></linearGradient><linearGradient
+       xlink:href="#linearGradient2"
+       id="linearGradient3"
+       x1="129.2446"
+       y1="126.03536"
+       x2="239.52553"
+       y2="84.898819"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(5.4431094,-6.8167938)" /></defs><g
+     id="layer1"
+     transform="translate(-115.38706,-64.295396)"><path
+       style="fill:url(#linearGradient3);fill-opacity:1;stroke-width:0.264583"
+       d="m 116.01579,134.9729 c -1.02684,-6.16504 -1.52203,-12.57545 4.47938,-21.98429 4.78426,-7.16484 11.06451,-12.75057 20.7819,-14.708227 6.00688,-2.233818 11.91062,-0.32918 17.9175,0.223997 l 6.10598,-2.675785 c 1.03294,-1.888098 3.31912,-4.015176 4.57014,-5.394447 1.30067,-1.434027 2.70887,-2.617179 4.20306,-3.599673 4.75369,-3.558303 10.28364,-6.167842 17.50491,-6.710214 8.64151,-0.986721 11.60386,1.451773 16.40567,2.419439 l 6.64246,-2.419441 c 3.82504,-8.806683 11.93231,-13.458097 18.38016,-13.420432 l 12.54518,1.750491 11.3782,14.295679 -7.58547,15.462636 -4.37622,16.921367 11.08644,10.79469 -2.04224,18.38016 -19.54715,4.66798 -25.38212,-5.54323 -31.21709,-3.79273 -12.54519,7.00197 -31.21709,-6.41847 -11.08645,3.50098 z"
+       id="path2" /><circle
+       style="fill:#5775e5;fill-opacity:1;stroke-width:0.264583"
+       id="path4"
+       cx="154.03462"
+       cy="87.551361"
+       r="7.0019641" /><circle
+       style="fill:#8486ea;fill-opacity:1;stroke-width:0.165364"
+       id="path4-7"
+       cx="193.11057"
+       cy="68.671623"
+       r="4.3762274" /></g></svg>
